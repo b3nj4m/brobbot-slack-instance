@@ -1,6 +1,6 @@
 {
   "name": "brobbot-instance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create an instance of brobbot",
   "main": "index.sh",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/b3nj4m/brobbot-instance",
   "dependencies": {
-    "brobbot": "^4.0.0"
+    "brobbot": "^4.0.2"
   }
 }
