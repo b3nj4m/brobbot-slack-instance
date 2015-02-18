@@ -1,6 +1,6 @@
 # brobbot-instance
 
-Create an instance of brobbot by downloading a release and installing dependencies:
+Create an instance of [brobbot](https://npmjs.org/package/brobbot) by downloading a [release](https://github.com/b3nj4m/brobbot-instance/releases) and installing dependencies:
 
 ```bash
 curl https://codeload.github.com/b3nj4m/brobbot-instance/tar.gz/1.0.0 | tar -xz
