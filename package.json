@@ -1,10 +1,13 @@
 {
   "name": "brobbot-instance",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create an instance of brobbot",
   "main": "index.sh",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "brobbot": "./index.sh"
   },
   "repository": {
     "type": "git",
@@ -20,6 +23,6 @@
   },
   "homepage": "https://github.com/b3nj4m/brobbot-instance",
   "dependencies": {
-    "brobbot": "^4.0.2"
+    "brobbot": "^4.0.3"
   }
 }
