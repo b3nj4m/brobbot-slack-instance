@@ -1,6 +1,8 @@
 # brobbot-instance
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+See [brobbot-slack-instance](https://github.com/b3nj4m/brobbot-slack-instance) to easily deploy an instance of brobbot for your Slack room.
+
+### Download and install
 
 Create an instance of [brobbot](https://npmjs.org/package/brobbot) by downloading a [release](https://github.com/b3nj4m/brobbot-instance/releases) and installing dependencies:
 
