@@ -1,0 +1,25 @@
+{
+  "name": "Brobbot Slack Instance",
+  "description": "A Brobbot instance for your Slack room.",
+  "keywords": [
+    "brobbot",
+    "slack"
+  ],
+  "website": "https://github.com/b3nj4m/brobbot-slack-instance",
+  "repository": "https://github.com/b3nj4m/brobbot-slack-instance",
+  "env": {
+    "BROBBOT_SLACK_TOKEN": {
+      "description": "Your API token for your Slack Hubot integration.",
+      "required": true,
+      "value": ""
+    },
+    "HEROKU_URL": {
+      "description": "The url for this Heroku app (e.g. http://my-slack-brobbot.herokuapp.com). Used to send a keep-alive ping to your instance.",
+      "required": true,
+      "value": ""
+    }
+  },
+  "addons": [
+    "redistogo:nano"
+  ]
+}

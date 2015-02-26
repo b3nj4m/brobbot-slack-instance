@@ -1,0 +1,34 @@
+{
+  "name": "brobbot-slack-instance",
+  "version": "1.0.0",
+  "description": "Create an instance of brobbot for your Slack room",
+  "main": "index.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "brobbot": "./index.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b3nj4m/brobbot-slack-instance"
+  },
+  "keywords": [
+    "brobbot"
+  ],
+  "author": "Ben Robbins <ben.robbins@gmail.com> (https://b3nj4m.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b3nj4m/brobbot-slack-instance/issues"
+  },
+  "homepage": "https://github.com/b3nj4m/brobbot-slack-instance",
+  "dependencies": {
+    "brobbot": "^4.0.4",
+    "brobbot-google": "^1.0.0",
+    "brobbot-google-image": "^1.0.1",
+    "brobbot-quote": "^2.0.3",
+    "brobbot-react": "^2.0.3",
+    "brobbot-redis-brain": "^1.5.6",
+    "brobbot-slack": "^4.0.2"
+  }
+}
