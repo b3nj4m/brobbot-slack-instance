@@ -11,7 +11,7 @@ npm install
 ./index.sh [args]
 ```
 
-You will probably want to install an adapter. E.g. with for Slack:
+You will probably want to install an adapter. E.g. for Slack:
 
 ```bash
 npm install --save brobbot-slack
