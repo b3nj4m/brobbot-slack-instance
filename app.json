@@ -13,6 +13,11 @@
       "required": true,
       "value": ""
     },
+    "BROBBOT_ALIAS": {
+      "description": "An alias that your brobbot will also respond to (e.g. 'bb')",
+      "required": false,
+      "value": "bb"
+    },
     "HEROKU_URL": {
       "description": "The url for this Heroku app (e.g. http://my-slack-brobbot.herokuapp.com). Used to send a keep-alive ping to your instance.",
       "required": true,
