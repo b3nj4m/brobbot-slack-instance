@@ -29,6 +29,7 @@
     "brobbot-quote": "^2.0.3",
     "brobbot-react": "^2.0.3",
     "brobbot-redis-brain": "^1.5.6",
-    "brobbot-slack": "^4.0.2"
+    "brobbot-slack": "^4.0.2",
+    "brobbot-youtube": "^1.0.2"
   }
 }

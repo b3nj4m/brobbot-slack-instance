@@ -8,6 +8,7 @@ Create an instance of [brobbot](https://npmjs.org/package/brobbot) for your Slac
 - [brobbot-google-image](https://npmjs.org/package/brobbot-google-image) - a Google image search script for your brobbot
 - [brobbot-quote](https://npmjs.org/package/brobbot-quote) - a quote/remember script for your brobbot
 - [brobbot-react](https://npmjs.org/package/brobbot-react) - a hear/react script for your brobbot
+- [brobbot-youtube](https://npmjs.org/package/brobbot-youtube) - a YouTube search script for your brobbot
 
 ### Deploy with Heroku button
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
@@ -16,10 +17,10 @@ Create an instance of [brobbot](https://npmjs.org/package/brobbot) for your Slac
 Download a [release](https://github.com/b3nj4m/brobbot-instance/releases) and install dependencies:
 
 ```bash
-curl https://codeload.github.com/b3nj4m/brobbot-slack-instance/tar.gz/1.0.2 | tar -xz
-cd brobbot-slack-instance-1.0.2
+curl https://codeload.github.com/b3nj4m/brobbot-slack-instance/tar.gz/1.0.3 | tar -xz
+cd brobbot-slack-instance-1.0.3
 npm install
-BROBBOT_SLACK_TOKEN=myslacktoken ./index.sh -a slack -b redis -s google,google-image,quote,react
+BROBBOT_SLACK_TOKEN=myslacktoken ./index.sh -a slack -b redis -s google,google-image,quote,react,youtube
 ```
 
 See [the docs](https://github.com/b3nj4m/hubot/blob/master/docs/README.md) for more info about brobbot.
