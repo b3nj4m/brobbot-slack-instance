@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/b3nj4m/brobbot-slack-instance",
   "dependencies": {
-    "brobbot": "^4.0.5",
+    "brobbot": "^5.0.0",
     "brobbot-google": "^1.0.0",
     "brobbot-google-image": "^1.0.1",
     "brobbot-quote": "^2.0.3",

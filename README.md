@@ -14,11 +14,12 @@ Create an instance of [brobbot](https://npmjs.org/package/brobbot) for your Slac
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ### Download and run locally
+
 Download a [release](https://github.com/b3nj4m/brobbot-instance/releases) and install dependencies:
 
 ```bash
-curl https://codeload.github.com/b3nj4m/brobbot-slack-instance/tar.gz/1.0.3 | tar -xz
-cd brobbot-slack-instance-1.0.3
+curl https://codeload.github.com/b3nj4m/brobbot-slack-instance/tar.gz/2.0.0 | tar -xz
+cd brobbot-slack-instance-2.0.0
 npm install
 BROBBOT_SLACK_TOKEN=myslacktoken ./index.sh -a slack -b redis -s google,google-image,quote,react,youtube
 ```
