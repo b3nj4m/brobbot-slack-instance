@@ -1,6 +1,6 @@
 {
   "name": "brobbot-slack-instance",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Create an instance of brobbot for your Slack room",
   "main": "index.sh",
   "scripts": {
@@ -23,13 +23,13 @@
   },
   "homepage": "https://github.com/b3nj4m/brobbot-slack-instance",
   "dependencies": {
-    "brobbot": "^5.0.0",
-    "brobbot-google": "^1.0.0",
-    "brobbot-google-image": "^1.0.1",
-    "brobbot-quote": "^2.0.3",
-    "brobbot-react": "^2.0.3",
-    "brobbot-redis-brain": "^1.5.6",
-    "brobbot-slack": "^4.0.2",
-    "brobbot-youtube": "^1.0.2"
+    "brobbot": "^5.0.1",
+    "brobbot-google": "^1.0.2",
+    "brobbot-google-image": "^1.0.3",
+    "brobbot-quote": "^2.1.2",
+    "brobbot-react": "^2.0.5",
+    "brobbot-redis-brain": "^1.7.0",
+    "brobbot-slack": "^5.0.0",
+    "brobbot-youtube": "^1.0.3"
   }
 }
