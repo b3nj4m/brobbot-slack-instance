@@ -23,13 +23,14 @@
   },
   "homepage": "https://github.com/b3nj4m/brobbot-slack-instance",
   "dependencies": {
-    "brobbot": "^5.0.1",
-    "brobbot-google": "^1.0.2",
-    "brobbot-google-image": "^1.0.3",
-    "brobbot-quote": "^2.1.2",
-    "brobbot-react": "^3.0.0",
-    "brobbot-redis-brain": "^2.0.0",
-    "brobbot-slack": "^5.0.0",
-    "brobbot-youtube": "^1.0.3"
+    "brobbot": "^6.0.0",
+    "brobbot-google": "^2.0.1",
+    "brobbot-google-image": "^1.0.5",
+    "brobbot-google-image-bomb": "^1.0.5",
+    "brobbot-quote": "^3.0.0",
+    "brobbot-react": "^3.2.0",
+    "brobbot-redis-brain": "^3.0.0",
+    "brobbot-slack": "^5.0.1",
+    "brobbot-youtube": "^1.0.4"
   }
 }
