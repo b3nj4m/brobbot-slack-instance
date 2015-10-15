@@ -3,6 +3,9 @@
   "version": "5.0.1",
   "description": "Create an instance of brobbot for your Slack room",
   "main": "index.sh",
+  "engines": {
+    "node": "0.12.x - 2.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
