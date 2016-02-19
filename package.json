@@ -1,6 +1,6 @@
 {
   "name": "brobbot-slack-instance",
-  "version": "5.0.2",
+  "version": "5.1.0",
   "description": "Create an instance of brobbot for your Slack room",
   "main": "index.sh",
   "engines": {
