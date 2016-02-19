@@ -29,8 +29,7 @@
   "dependencies": {
     "brobbot": "^6.0.0",
     "brobbot-google": "^2.0.1",
-    "brobbot-google-image": "^1.0.5",
-    "brobbot-google-image-bomb": "^1.0.5",
+    "brobbot-imgur-image": "^1.0.0",
     "brobbot-quote": "^3.0.0",
     "brobbot-react": "^3.2.0",
     "brobbot-redis-brain": "^3.0.0",
